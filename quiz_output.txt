@@ -1,0 +1,35 @@
+Question: Which language is primarily used for web development?
+a) C++
+b) Java
+c) JavaScript
+d) Python
+Correct Answer: c
+--------------------------------------------------
+Question: During program development, what do software requirements specify?
+a) How the program will accomplish the task
+b) What the task is that the program must perform
+c) How to divide the task into subtasks
+d) How to test the program when it is done
+Correct Answer: b
+--------------------------------------------------
+Question: Which of the following sorting algorithms has the best average-case time complexity?
+a) Bubble Sort
+b) Merge Sort
+c) Selection Sort
+d) Quick Sort
+Correct Answer: b
+--------------------------------------------------
+Question: What does the term “IDE” stand for in programming?
+a) Integrated Development Environment
+b) Intelligent Debugging Engine
+c) Internet Development Editor
+d) Interactive Design Engine
+Correct Answer: a
+--------------------------------------------------
+Question: In object-oriented programming, what is a "virtual function"?
+a) A function with no return type
+b) A placeholder function
+c) A function that can be overridden
+d) A function for debugging
+Correct Answer: c
+--------------------------------------------------
