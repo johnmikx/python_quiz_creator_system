@@ -11,6 +11,10 @@ A dynamic [Python-based quiz creator](https://github.com/johnmikx/python_quiz_cr
 
 ```
 python_quiz_creator_system/
+├── python_quiz_game_system/
+│   ├── README.md
+│   ├── instructions.txt
+│   └── quiz_game.py
 ├── README.md
 ├── instructions.txt
 ├── quiz_creator.py
