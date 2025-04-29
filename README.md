@@ -1,4 +1,4 @@
-A dynamic [Python-based quiz creator](https://github.com/johnmikx/python_quiz_creator_system/blob/main/quiz_creator.py) system that gathers quiz questions with multiple-choice answers and saves them in a [formatted text file](https://github.com/johnmikx/python_quiz_creator_system/blob/main/quiz_output.txt) for later quiz delivery.
+A dynamic [Python-based quiz creator](https://github.com/johnmikx/python_quiz_creator_system/blob/main/quiz_creator.py) system that gathers quiz questions with multiple-choice answers and saves them in a [formatted text file](https://github.com/johnmikx/python_quiz_creator_system/blob/main/quiz_output.txt) for [later quiz delivery](https://github.com/johnmikx/python_quiz_creator_system/blob/main/python_quiz_game_system/quiz_game.py).
 
 ### Course Information
 
