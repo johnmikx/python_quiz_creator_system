@@ -7,16 +7,6 @@
 - **Author:** :ninja: **John Mike Asuncion** (BSCPE 1-2)
 - **Professor:** Engr. Danilo C. Madrigalejos, Jr.
 
-## Directory Structure
-*to be updated*
-```
-
-├── 
-├── 
-├── 
-└── 
-```
-
 ## About the Author
 
 🥷 **John Mike Asuncion (Mike)**
