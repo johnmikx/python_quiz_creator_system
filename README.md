@@ -14,7 +14,8 @@ python_quiz_creator_system/
 ├── python_quiz_game_system/
 │   ├── README.md
 │   ├── instructions.txt
-│   └── quiz_game.py
+│   ├── quiz_game.py
+│   └── quiz_game_documentation.pdf
 ├── README.md
 ├── instructions.txt
 ├── quiz_creator.py
