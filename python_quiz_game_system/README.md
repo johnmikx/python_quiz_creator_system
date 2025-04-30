@@ -1,4 +1,4 @@
-*to be updated*
+A [Python quiz application](https://github.com/johnmikx/python_quiz_creator_system/blob/main/python_quiz_game_system/quiz_game.py) that reads multiple-choice questions from a `quiz_output.txt` file, presents them randomly without repetition, and checks user answers for accuracy.
 
 ### Course Information
 
