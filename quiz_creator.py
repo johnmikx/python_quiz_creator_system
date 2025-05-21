@@ -42,7 +42,7 @@ def format_quiz_data(quiz):
 
 def write_to_file(formatted_quiz, filename="quiz_output.txt"):
     # Write the formatted quiz data to the specified text file
-    with open(filename, "a", encoding="utf=8") as file:
+    with open(filename, "a", encoding="utf-8") as file:
         file.write(formatted_quiz)
 
 def main():
